@@ -1,2 +1,4 @@
-# meteor-accounts-trademe
+# accounts-trademe
+
 OAuth flow for Trade Me
+
